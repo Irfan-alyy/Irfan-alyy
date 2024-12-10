@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Irfan-alyy
 - 👀 I’m interested in software development, sepecially web development
-- 🌱 I’m currently learning back-end web development
+- 🌱 I’m currently learning Front-end web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: ...

@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="AXFJWKcssFziDv6rEtac8RsDhBS3T1eQm5zBE0wHQOU" />
+
 👋 Hi, I’m Irfan Aly (@Irfan-alyy)
 💻 Front-End Developer | React Enthusiast | JavaScript Developer
 

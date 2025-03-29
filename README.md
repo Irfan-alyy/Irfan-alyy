@@ -8,6 +8,7 @@
 
 HTML, CSS, JavaScript,
 React, Redux, Zustand,
+Nextjs, API Routes,
 Tailwind CSS, Bootstrap,
 Exploring new frameworks and tools to level up my skills!
 🤝 Open to collaborating on exciting web projects – whether it’s a sleek UI, an interactive app, or a new challenge to tackle!

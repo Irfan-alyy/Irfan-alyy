@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Irfan Aly (@Irfan-alyy)
+# 👋 Hi, I’m Ali Irfan (@Irfan-alyy)
 
 💻 **Full Stack Developer (Front-End Focused)**  
 ⚛️ React & Next.js Enthusiast | 🧠 Lifelong Learner | 🌐 JavaScript Developer
@@ -45,5 +45,5 @@ When I’m not coding, I’m probably binge-watching movies 🎬, exploring good
 ---
 
 📬 **Let’s Connect!**  
-[GitHub](https://github.com/Irfan-alyy) • [LinkedIn](https://linkedin/in/irfan-aly) • [Email](irfanserboon@gmail.com)
+[GitHub](https://github.com/Irfan-alyy) • [LinkedIn](https://www.linkedin.com/in/aly-irfan)) • [Email](irfanserboon@gmail.com)
 

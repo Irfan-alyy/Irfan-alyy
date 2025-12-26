@@ -45,5 +45,5 @@ When I’m not coding, I’m probably binge-watching movies 🎬, exploring good
 ---
 
 📬 **Let’s Connect!**  
-[GitHub](https://github.com/Irfan-alyy) • [LinkedIn](https://www.linkedin.com/in/aly-irfan)) • [Email](irfanserboon@gmail.com)
+[GitHub](https://github.com/Irfan-alyy) • [LinkedIn](https://www.linkedin.com/in/aly-irfan) • [Email](irfanserboon@gmail.com)
 

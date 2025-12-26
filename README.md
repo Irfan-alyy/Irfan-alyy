@@ -1,49 +1,123 @@
 # 👋 Hi, I’m Ali Irfan (@Irfan-alyy)
 
-💻 **Full Stack Developer (Front-End Focused)**  
-⚛️ React & Next.js Enthusiast | 🧠 Lifelong Learner | 🌐 JavaScript Developer
+**Full-Stack Web Developer**
+React & Next.js | JavaScript & TypeScript | Learning-Driven Engineer
 
 ---
 
-🚀 I’m passionate about crafting performant, secure, and beautiful web applications. I specialize in front-end development with React & Next.js, and I’m actively mastering full-stack workflows using modern tools.
+I’m a full-stack developer with hands-on experience building both frontend interfaces and backend systems.
+I’ve worked on multiple projects using React / Next.js for the frontend and Node.js, Express, MongoDB, and Prisma on the backend, with a strong focus on authentication, scalability, and clean architecture.
 
-### 🛠️ Tech Stack:
-**Languages:**  
-JavaScript (ES6+), TypeScript, HTML, CSS
+I believe in learning by building, writing maintainable code, and continuously improving my understanding of modern web development.
 
-**Frontend:**  
-React, Next.js (App Router, RSC, Server Actions), Redux, Zustand, Tailwind CSS, Bootstrap
+<br>
 
-**Backend & Auth:**  
-Node.js, Express.js, MongoDB (Native Driver), JWT, bcrypt, Passport.js
+## Tech Stack
 
-**Other Tools:**  
-API Routes, Prisma, REST APIs, Git & GitHub
+### Languages
 
-**In Progress:**  
-WebRTC (Real-time apps), T3 Stack, File system APIs, DevOps basics
+* JavaScript (ES6+)
+* TypeScript
+* HTML5, CSS3
+
+### Frontend
+
+* React
+* Next.js
+* Redux Toolkit, Zustand
+* Tailwind CSS, Bootstrap
+
+### Backend
+
+* Node.js
+* Express.js
+* MongoDB
+* Prisma ORM
+
+### Authentication & Security
+
+* Passport.js
+* OAuth (Google and others)
+* NextAuth / Auth.js
+* JWT
+* bcrypt
+
+### APIs & Tooling
+
+* REST APIs
+* Postman
+* Git and GitHub
 
 ---
 
-### 🌱 Currently Focused On:
-- Building full-stack apps with **Next.js + MongoDB**
-- Exploring **WebRTC** for real-time video apps
-- Writing clean, typed code using **TypeScript**
-- Structuring scalable projects using **T3 Stack & Prisma**
-- Following modern architecture with **React Server Components**
+## Featured Projects
+
+### Authentication System (Backend)
+
+Tech: Node.js, Express.js, MongoDB, Passport.js, OAuth, JWT
+Repo: [https://github.com/Irfan-alyy/Authentication-system-nodejs](https://github.com/Irfan-alyy/Authentication-system-nodejs)
+
+* Complete backend authentication system
+* Local authentication and OAuth strategies implemented using Passport.js
+* Secure password hashing with bcrypt
+* Token-based authentication using JWT
+* Structured project architecture aligned with real-world backend practices
+* Strong focus on security and scalability
+
+This project represents practical experience with real authentication flows used in production systems.
 
 ---
 
-### 🤝 Let’s Collaborate:
-I’m always up for exciting web projects — whether it’s building a sleek UI, a full-stack app, or experimenting with new tools. Let's create something impactful together.
+### eCommerce Store (Frontend)
+
+Tech: React (frontend-focused implementation)
+Repo: [https://github.com/Irfan-alyy/Ecommerce-Store](https://github.com/Irfan-alyy/Ecommerce-Store)
+
+* Frontend implementation of an eCommerce application
+* Core UI components and pages 
+* Emphasis on component structure, layout, and user experience
+* Hands-on experience with real-world frontend workflows
+* State Management with Redux (used for Cart functionality)
+* Framer-motion for smooth animations and effects
+
+This project demonstrates practical frontend development skills and UI-focused problem solving.
 
 ---
 
-### ⚡ Fun Fact:
-When I’m not coding, I’m probably binge-watching movies 🎬, exploring good food 🍕, or being ridiculously punctual ⏱️.
+## Currently Learning and Improving
+
+* Advanced Node.js concepts
+  (workers, background tasks, caching with Redis, real-time communication)
+* Docker for containerized development
+* Backend API testing (Jest, Supertest)
+* Frontend testing (Jest, React Testing Library)
+* Real-time communication patterns between frontend and backend
+* Writing more robust and production-ready applications
 
 ---
 
-📬 **Let’s Connect!**  
-[GitHub](https://github.com/Irfan-alyy) • [LinkedIn](https://www.linkedin.com/in/aly-irfan) • [Email](irfanserboon@gmail.com)
+## Open to Collaboration
 
+I’m open to:
+
+* Full-stack applications with Node.js backends
+* React and Next.js projects
+* Learning-driven collaborations focused on clean code and growth
+
+If you’re working on something meaningful and value responsibility and continuous learning, I’d be happy to collaborate.
+
+---
+
+## Fun Facts
+
+* Enjoy watching movies
+* Love exploring good food
+* Strong believer in discipline, responsibility, and lifelong learning
+
+---
+
+## Let’s Connect
+
+GitHub: [https://github.com/Irfan-alyy](https://github.com/Irfan-alyy)<br>
+LinkedIn: [https://www.linkedin.com/in/aly-irfan](https://www.linkedin.com/in/aly-irfan)<br>
+Email: [irfanserboon@gmail.com](mailto:irfanserboon@gmail.com)

@@ -1,14 +1,15 @@
-# 👋 Hi, I’m Ali Irfan (@Irfan-alyy)
+# 👋 Hi, I'm Ali Irfan (@Irfan-alyy)
 
-**Full-Stack Web Developer**
-React & Next.js | JavaScript & TypeScript | Learning-Driven Engineer
+**Full-Stack JavaScript Software Engineer**
+JavaScript & TypeScript | React & Next.js | Node.js & PostgreSQL
 
 ---
 
-I’m a full-stack developer with hands-on experience building both frontend interfaces and backend systems.
-I’ve worked on multiple projects using React / Next.js for the frontend and Node.js, Express, MongoDB, and Prisma on the backend, with a strong focus on authentication, scalability, and clean architecture.
+I'm a Full-Stack JavaScript Software Engineer with experience building modern web applications across both frontend and backend development.
 
-I believe in learning by building, writing maintainable code, and continuously improving my understanding of modern web development.
+My work primarily focuses on the JavaScript and TypeScript ecosystem, using technologies such as React, Next.js, Node.js, PostgreSQL, MongoDB, and related tooling to build scalable, maintainable, and user-focused applications.
+
+I enjoy transforming ideas into reliable software, solving real-world problems through technology, and continuously improving my understanding of software engineering, system design, and modern development practices.
 
 <br>
 
@@ -18,26 +19,30 @@ I believe in learning by building, writing maintainable code, and continuously i
 
 * JavaScript (ES6+)
 * TypeScript
-* HTML5, CSS3
+* HTML5
+* CSS3
 
 ### Frontend
 
 * React
 * Next.js
-* Redux Toolkit, Zustand
-* Tailwind CSS, Bootstrap
+* Redux Toolkit
+* Zustand
+* Tailwind CSS
+* Bootstrap
 
 ### Backend
 
 * Node.js
 * Express.js
+* PostgreSQL
 * MongoDB
 * Prisma ORM
 
 ### Authentication & Security
 
 * Passport.js
-* OAuth (Google and others)
+* OAuth (Google and other providers)
 * NextAuth / Auth.js
 * JWT
 * bcrypt
@@ -45,79 +50,106 @@ I believe in learning by building, writing maintainable code, and continuously i
 ### APIs & Tooling
 
 * REST APIs
+* Git & GitHub
 * Postman
-* Git and GitHub
+* Vercel
+* Linux Development Environment
 
 ---
 
 ## Featured Projects
 
-### Authentication System (Backend)
+### WorkNexus (Full-Stack Platform)
+**Tech:** Next.js, Node.js, Express.js, PostgreSQL, Prisma
 
-Tech: Node.js, Express.js, MongoDB, Passport.js, OAuth, JWT
-Repo: [https://github.com/Irfan-alyy/Authentication-system-nodejs](https://github.com/Irfan-alyy/Authentication-system-nodejs)
+**Repository:**
+https://github.com/Irfan-alyy/worknexus
 
-* Complete backend authentication system
-* Local authentication and OAuth strategies implemented using Passport.js
-* Secure password hashing with bcrypt
-* Token-based authentication using JWT
-* Structured project architecture aligned with real-world backend practices
-* Strong focus on security and scalability
-
-This project represents practical experience with real authentication flows used in production systems.
+- Full-stack web application with authentication and role-based system
+- Scalable backend architecture with RESTful APIs
+- Integrated database design using PostgreSQL & Prisma ORM
+- Focus on clean architecture and production-ready structure
+- Built as a real-world SaaS-style platform
 
 ---
 
-### eCommerce Store (Frontend)
+### Authentication System
 
-Tech: React (frontend-focused implementation)
-Repo: [https://github.com/Irfan-alyy/Ecommerce-Store](https://github.com/Irfan-alyy/Ecommerce-Store)
+**Tech:** Node.js, Express.js, MongoDB, Passport.js, OAuth, JWT
 
-* Frontend implementation of an eCommerce application
-* Core UI components and pages 
-* Emphasis on component structure, layout, and user experience
-* Hands-on experience with real-world frontend workflows
-* State Management with Redux (used for Cart functionality)
-* Framer-motion for smooth animations and effects
+**Repository:**
+https://github.com/Irfan-alyy/Authentication-system-nodejs
 
-This project demonstrates practical frontend development skills and UI-focused problem solving.
+* Complete authentication and authorization backend
+* Local authentication and OAuth integration
+* Secure password hashing using bcrypt
+* JWT-based authentication workflows
+* Structured and maintainable backend architecture
+* Focus on security, scalability, and real-world implementation patterns
+
+This project demonstrates practical experience implementing authentication systems commonly used in production web applications.
 
 ---
 
-## Currently Learning and Improving
+### eCommerce Store
 
-* Advanced Node.js concepts
-  (workers, background tasks, caching with Redis, real-time communication)
-* Docker for containerized development
-* Backend API testing (Jest, Supertest)
-* Frontend testing (Jest, React Testing Library)
-* Real-time communication patterns between frontend and backend
-* Writing more robust and production-ready applications
+**Tech:** React, Redux Toolkit, Framer Motion
+
+**Repository:**
+https://github.com/Irfan-alyy/Ecommerce-Store
+
+* Responsive eCommerce user interface
+* Product browsing and shopping cart functionality
+* State management using Redux Toolkit
+* Interactive user experience with Framer Motion animations
+* Component-driven architecture and reusable UI patterns
+
+This project highlights frontend development skills, state management, and user-focused interface design.
+
+---
+
+## Current Focus
+
+* Full-stack application development
+* Modern JavaScript and TypeScript ecosystems
+* Backend architecture and database design
+* Software engineering best practices
+* AI-assisted development workflows
+* Building reliable, scalable, and user-focused products
+
 
 ---
 
 ## Open to Collaboration
 
-I’m open to:
+I'm interested in collaborating on:
 
-* Full-stack applications with Node.js backends
+* Full-stack web applications
 * React and Next.js projects
-* Learning-driven collaborations focused on clean code and growth
-
-If you’re working on something meaningful and value responsibility and continuous learning, I’d be happy to collaborate.
+* Node.js backend systems
+* Open-source contributions
+* Engineering-focused projects where I can learn, contribute, and grow
 
 ---
 
-## Fun Facts
+## Beyond Coding
 
 * Enjoy watching movies
-* Love exploring good food
-* Strong believer in discipline, responsibility, and lifelong learning
+* Love exploring great food
+* Passionate about continuous learning and self-improvement
+* Strong believer in discipline, responsibility, and long-term growth
 
 ---
 
-## Let’s Connect
+## Let's Connect
+**Portfolio:**
+  https://aly-irfan.me
+  
+**GitHub:**
+https://github.com/Irfan-alyy
 
-GitHub: [https://github.com/Irfan-alyy](https://github.com/Irfan-alyy)<br>
-LinkedIn: [https://www.linkedin.com/in/aly-irfan](https://www.linkedin.com/in/aly-irfan)<br>
-Email: [irfanserboon@gmail.com](mailto:irfanserboon@gmail.com)
+**LinkedIn:**
+https://www.linkedin.com/in/aly-irfan
+
+**Email:**
+[irfanserboon@gmail.com](mailto:irfanserboon@gmail.com)
